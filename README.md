@@ -1,1 +1,0 @@
-# pertemuan-02-dasar-python-2225250131
