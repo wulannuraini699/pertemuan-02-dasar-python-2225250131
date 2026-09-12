@@ -1,14 +1,8 @@
+# Pertemuan 02 - Dasar Python
 ## Identitas
 Nama : Wulan Nur'aini
 NIM : 2225250131
 Kelas :
-
-# Pertemuan 02 - Dasar Python
-
-## Identitas
-Nama: [Siti Fitriani]
-NIM: [222250213]
-Kelas: [38]
 
 ## Tujuan
 Mempelajari variabel, konstanta, tipe data, input-output, operator, serta menjalankan dan menguji program Python melalui VS Code.
