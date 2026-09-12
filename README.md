@@ -2,7 +2,7 @@
 ## Identitas
 Nama : Wulan Nur'aini
 NIM : 2225250131
-Kelas :
+Kelas : 3E
 
 ## Tujuan
 Mempelajari variabel, konstanta, tipe data, input-output, operator, serta menjalankan dan menguji program Python melalui VS Code.
